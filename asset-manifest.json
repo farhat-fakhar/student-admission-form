@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/farhat-fakhar/student-admission-form/static/css/main.a47c3c9e.css",
-    "main.js": "/farhat-fakhar/student-admission-form/static/js/main.60d8168d.js",
+    "main.js": "/farhat-fakhar/student-admission-form/static/js/main.72664fe4.js",
     "static/js/453.2d40735f.chunk.js": "/farhat-fakhar/student-admission-form/static/js/453.2d40735f.chunk.js",
     "static/media/slick.svg": "/farhat-fakhar/student-admission-form/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/farhat-fakhar/student-admission-form/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/farhat-fakhar/student-admission-form/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/farhat-fakhar/student-admission-form/index.html",
     "main.a47c3c9e.css.map": "/farhat-fakhar/student-admission-form/static/css/main.a47c3c9e.css.map",
-    "main.60d8168d.js.map": "/farhat-fakhar/student-admission-form/static/js/main.60d8168d.js.map",
+    "main.72664fe4.js.map": "/farhat-fakhar/student-admission-form/static/js/main.72664fe4.js.map",
     "453.2d40735f.chunk.js.map": "/farhat-fakhar/student-admission-form/static/js/453.2d40735f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a47c3c9e.css",
-    "static/js/main.60d8168d.js"
+    "static/js/main.72664fe4.js"
   ]
 }
