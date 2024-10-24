@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/farhat-fakhar/student-admission-form/static/css/main.a47c3c9e.css",
-    "main.js": "/farhat-fakhar/student-admission-form/static/js/main.72664fe4.js",
-    "static/js/453.2d40735f.chunk.js": "/farhat-fakhar/student-admission-form/static/js/453.2d40735f.chunk.js",
-    "static/media/slick.svg": "/farhat-fakhar/student-admission-form/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/farhat-fakhar/student-admission-form/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/farhat-fakhar/student-admission-form/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/farhat-fakhar/student-admission-form/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/farhat-fakhar/student-admission-form/index.html",
-    "main.a47c3c9e.css.map": "/farhat-fakhar/student-admission-form/static/css/main.a47c3c9e.css.map",
-    "main.72664fe4.js.map": "/farhat-fakhar/student-admission-form/static/js/main.72664fe4.js.map",
-    "453.2d40735f.chunk.js.map": "/farhat-fakhar/student-admission-form/static/js/453.2d40735f.chunk.js.map"
+    "main.css": "/student-admission-form/static/css/main.eb5dc1e7.css",
+    "main.js": "/student-admission-form/static/js/main.40b688f0.js",
+    "static/js/453.2d40735f.chunk.js": "/student-admission-form/static/js/453.2d40735f.chunk.js",
+    "static/media/slick.svg": "/student-admission-form/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/student-admission-form/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/student-admission-form/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/student-admission-form/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/student-admission-form/index.html",
+    "main.eb5dc1e7.css.map": "/student-admission-form/static/css/main.eb5dc1e7.css.map",
+    "main.40b688f0.js.map": "/student-admission-form/static/js/main.40b688f0.js.map",
+    "453.2d40735f.chunk.js.map": "/student-admission-form/static/js/453.2d40735f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a47c3c9e.css",
-    "static/js/main.72664fe4.js"
+    "static/css/main.eb5dc1e7.css",
+    "static/js/main.40b688f0.js"
   ]
 }
